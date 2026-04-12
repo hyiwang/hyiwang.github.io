@@ -1,2 +1,5 @@
 # rotto-wind's personal homepage
-You can contact me with: hw23997@utexas.edu
+contact via email: hw23997@utexas.edu
+
+## Project
+- Image Color Visualizer: https://rotto-wind.github.io/image-color-visualizer/
